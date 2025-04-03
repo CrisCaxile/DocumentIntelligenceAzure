@@ -1,0 +1,1 @@
+Não consegui entrar no Microsoft azure Document Intelligence
