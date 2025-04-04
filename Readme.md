@@ -1,1 +1,1 @@
-Não consegui entrar no Microsoft azure Document Intelligence, está solicitando dados de cartão de crédito e não possuo nem meus familiares, portanto não consegui realizar esse exercício porque tentei fazer login na versão gratuita e tentei na opção do estudante e também deu erro.
+
