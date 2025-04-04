@@ -1,0 +1,4951 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2025-04-04T13:33:22Z",
+	"lastUpdatedDateTime": "2025-04-04T13:33:23Z",
+	"analyzeResult": {
+		"apiVersion": "2024-11-30",
+		"modelId": "prebuilt-read",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "Dica: Revise as questões abaixo e, se necessario, adapte para a sua realidade de aplicação.\nEsse é um modelo criado pelo Produttivo, um sistema e aplicativo para serviços.\nConheça mais sobre os modelos digitais de checklist aqui, Você preenche pelo aplicativo e o PDF é gerado na hora com todas as informações e fotos coletadas com o logo e cores da sua empresa.\ncoloque aqui a marca da sua empresa\nChecklist Manutenção Corretiva\ncoloque aqui a marca do seu cliente\nCliente\nNome Atacado Bom Preço\nEndereço\nAv. Senador Salgado Filho, 1305, Centro, Curitiba\nTelefone\n(41) 9908-0808\nCNPJ\n15.238.396/0001-87\nEquipamento ou Ativo\nNome\nAtacado bom preço\nModelo Split\nMarca Samsung\nLocal de instalação:\nFabricante:\nCapacidade:\nSobre o serviço\nData e Hora de Chegada\nData e Hora de Saida\nResponsável\nDiagnóstico\nSolução\nDiagnóstico atual\nSolução aplicada\n· Problema com vazamento no fluido\n· Limpeza de filtro realizada;\n. Filtro sujo\n. Necessário ajuste e fixação\nPeças trocadas\nPeças trocadas\n· Filtro\n. Suporte\n. Mangueira\n· Moldura ajustada",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 0,
+				"width": 725,
+				"height": 1024,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "Dica:",
+						"polygon": [
+							135,
+							34,
+							161,
+							34,
+							160,
+							48,
+							134,
+							48
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 0,
+							"length": 5
+						}
+					},
+					{
+						"content": "Revise",
+						"polygon": [
+							164,
+							34,
+							197,
+							34,
+							197,
+							48,
+							164,
+							48
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 6,
+							"length": 6
+						}
+					},
+					{
+						"content": "as",
+						"polygon": [
+							201,
+							34,
+							212,
+							34,
+							212,
+							48,
+							200,
+							48
+						],
+						"confidence": 0.974,
+						"span": {
+							"offset": 13,
+							"length": 2
+						}
+					},
+					{
+						"content": "questões",
+						"polygon": [
+							215,
+							34,
+							259,
+							34,
+							259,
+							48,
+							215,
+							48
+						],
+						"confidence": 0.673,
+						"span": {
+							"offset": 16,
+							"length": 8
+						}
+					},
+					{
+						"content": "abaixo",
+						"polygon": [
+							262,
+							34,
+							295,
+							34,
+							295,
+							48,
+							261,
+							48
+						],
+						"confidence": 0.974,
+						"span": {
+							"offset": 25,
+							"length": 6
+						}
+					},
+					{
+						"content": "e,",
+						"polygon": [
+							298,
+							34,
+							307,
+							34,
+							306,
+							48,
+							298,
+							48
+						],
+						"confidence": 0.956,
+						"span": {
+							"offset": 32,
+							"length": 2
+						}
+					},
+					{
+						"content": "se",
+						"polygon": [
+							310,
+							34,
+							322,
+							34,
+							321,
+							48,
+							310,
+							48
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 35,
+							"length": 2
+						}
+					},
+					{
+						"content": "necessario,",
+						"polygon": [
+							325,
+							34,
+							380,
+							34,
+							380,
+							48,
+							324,
+							48
+						],
+						"confidence": 0.89,
+						"span": {
+							"offset": 38,
+							"length": 11
+						}
+					},
+					{
+						"content": "adapte",
+						"polygon": [
+							384,
+							34,
+							417,
+							34,
+							417,
+							48,
+							383,
+							48
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 50,
+							"length": 6
+						}
+					},
+					{
+						"content": "para",
+						"polygon": [
+							420,
+							34,
+							442,
+							34,
+							442,
+							48,
+							420,
+							48
+						],
+						"confidence": 0.978,
+						"span": {
+							"offset": 57,
+							"length": 4
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							445,
+							34,
+							451,
+							34,
+							451,
+							48,
+							445,
+							48
+						],
+						"confidence": 0.955,
+						"span": {
+							"offset": 62,
+							"length": 1
+						}
+					},
+					{
+						"content": "sua",
+						"polygon": [
+							455,
+							34,
+							472,
+							34,
+							472,
+							48,
+							454,
+							48
+						],
+						"confidence": 0.974,
+						"span": {
+							"offset": 64,
+							"length": 3
+						}
+					},
+					{
+						"content": "realidade",
+						"polygon": [
+							475,
+							34,
+							520,
+							34,
+							520,
+							49,
+							475,
+							48
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 68,
+							"length": 9
+						}
+					},
+					{
+						"content": "de",
+						"polygon": [
+							523,
+							34,
+							535,
+							34,
+							535,
+							49,
+							523,
+							49
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 78,
+							"length": 2
+						}
+					},
+					{
+						"content": "aplicação.",
+						"polygon": [
+							539,
+							34,
+							592,
+							34,
+							592,
+							49,
+							538,
+							49
+						],
+						"confidence": 0.948,
+						"span": {
+							"offset": 81,
+							"length": 10
+						}
+					},
+					{
+						"content": "Esse",
+						"polygon": [
+							39,
+							98,
+							65,
+							98,
+							65,
+							111,
+							38,
+							111
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 92,
+							"length": 4
+						}
+					},
+					{
+						"content": "é",
+						"polygon": [
+							68,
+							98,
+							74,
+							98,
+							74,
+							111,
+							68,
+							111
+						],
+						"confidence": 0.687,
+						"span": {
+							"offset": 97,
+							"length": 1
+						}
+					},
+					{
+						"content": "um",
+						"polygon": [
+							77,
+							98,
+							89,
+							98,
+							88,
+							111,
+							77,
+							111
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 99,
+							"length": 2
+						}
+					},
+					{
+						"content": "modelo",
+						"polygon": [
+							94,
+							98,
+							132,
+							97,
+							131,
+							111,
+							93,
+							111
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 102,
+							"length": 6
+						}
+					},
+					{
+						"content": "criado",
+						"polygon": [
+							134,
+							97,
+							164,
+							97,
+							164,
+							111,
+							134,
+							111
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 109,
+							"length": 6
+						}
+					},
+					{
+						"content": "pelo",
+						"polygon": [
+							168,
+							97,
+							188,
+							97,
+							188,
+							111,
+							167,
+							111
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 116,
+							"length": 4
+						}
+					},
+					{
+						"content": "Produttivo,",
+						"polygon": [
+							191,
+							97,
+							243,
+							97,
+							243,
+							111,
+							191,
+							111
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 121,
+							"length": 11
+						}
+					},
+					{
+						"content": "um",
+						"polygon": [
+							246,
+							97,
+							262,
+							97,
+							262,
+							111,
+							246,
+							111
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 133,
+							"length": 2
+						}
+					},
+					{
+						"content": "sistema",
+						"polygon": [
+							265,
+							97,
+							302,
+							97,
+							302,
+							111,
+							265,
+							111
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 136,
+							"length": 7
+						}
+					},
+					{
+						"content": "e",
+						"polygon": [
+							305,
+							97,
+							311,
+							97,
+							311,
+							111,
+							305,
+							111
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 144,
+							"length": 1
+						}
+					},
+					{
+						"content": "aplicativo",
+						"polygon": [
+							314,
+							97,
+							360,
+							97,
+							360,
+							111,
+							314,
+							111
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 146,
+							"length": 10
+						}
+					},
+					{
+						"content": "para",
+						"polygon": [
+							363,
+							97,
+							385,
+							97,
+							385,
+							111,
+							363,
+							111
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 157,
+							"length": 4
+						}
+					},
+					{
+						"content": "serviços.",
+						"polygon": [
+							388,
+							97,
+							433,
+							97,
+							433,
+							111,
+							388,
+							111
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 162,
+							"length": 9
+						}
+					},
+					{
+						"content": "Conheça",
+						"polygon": [
+							39,
+							123,
+							83,
+							123,
+							83,
+							135,
+							39,
+							135
+						],
+						"confidence": 0.5,
+						"span": {
+							"offset": 172,
+							"length": 7
+						}
+					},
+					{
+						"content": "mais",
+						"polygon": [
+							85,
+							123,
+							110,
+							123,
+							110,
+							135,
+							85,
+							135
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 180,
+							"length": 4
+						}
+					},
+					{
+						"content": "sobre",
+						"polygon": [
+							113,
+							123,
+							140,
+							122,
+							140,
+							135,
+							113,
+							135
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 185,
+							"length": 5
+						}
+					},
+					{
+						"content": "os",
+						"polygon": [
+							143,
+							122,
+							155,
+							122,
+							155,
+							135,
+							143,
+							135
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 191,
+							"length": 2
+						}
+					},
+					{
+						"content": "modelos",
+						"polygon": [
+							157,
+							122,
+							204,
+							122,
+							204,
+							136,
+							157,
+							135
+						],
+						"confidence": 0.971,
+						"span": {
+							"offset": 194,
+							"length": 7
+						}
+					},
+					{
+						"content": "digitais",
+						"polygon": [
+							206,
+							122,
+							244,
+							122,
+							244,
+							136,
+							206,
+							136
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 202,
+							"length": 8
+						}
+					},
+					{
+						"content": "de",
+						"polygon": [
+							246,
+							122,
+							260,
+							122,
+							260,
+							136,
+							246,
+							136
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 211,
+							"length": 2
+						}
+					},
+					{
+						"content": "checklist",
+						"polygon": [
+							263,
+							122,
+							305,
+							122,
+							305,
+							136,
+							263,
+							136
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 214,
+							"length": 9
+						}
+					},
+					{
+						"content": "aqui,",
+						"polygon": [
+							307,
+							122,
+							332,
+							122,
+							332,
+							136,
+							307,
+							136
+						],
+						"confidence": 0.656,
+						"span": {
+							"offset": 224,
+							"length": 5
+						}
+					},
+					{
+						"content": "Você",
+						"polygon": [
+							335,
+							122,
+							360,
+							122,
+							360,
+							136,
+							335,
+							136
+						],
+						"confidence": 0.585,
+						"span": {
+							"offset": 230,
+							"length": 4
+						}
+					},
+					{
+						"content": "preenche",
+						"polygon": [
+							362,
+							122,
+							408,
+							122,
+							408,
+							136,
+							362,
+							136
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 235,
+							"length": 8
+						}
+					},
+					{
+						"content": "pelo",
+						"polygon": [
+							411,
+							122,
+							432,
+							122,
+							432,
+							136,
+							411,
+							136
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 244,
+							"length": 4
+						}
+					},
+					{
+						"content": "aplicativo",
+						"polygon": [
+							435,
+							122,
+							481,
+							122,
+							481,
+							136,
+							435,
+							136
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 249,
+							"length": 10
+						}
+					},
+					{
+						"content": "e",
+						"polygon": [
+							483,
+							122,
+							490,
+							122,
+							490,
+							136,
+							483,
+							136
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 260,
+							"length": 1
+						}
+					},
+					{
+						"content": "o",
+						"polygon": [
+							493,
+							122,
+							497,
+							122,
+							497,
+							136,
+							493,
+							136
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 262,
+							"length": 1
+						}
+					},
+					{
+						"content": "PDF",
+						"polygon": [
+							500,
+							122,
+							524,
+							122,
+							524,
+							136,
+							500,
+							136
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 264,
+							"length": 3
+						}
+					},
+					{
+						"content": "é",
+						"polygon": [
+							527,
+							122,
+							533,
+							122,
+							533,
+							136,
+							527,
+							136
+						],
+						"confidence": 0.333,
+						"span": {
+							"offset": 268,
+							"length": 1
+						}
+					},
+					{
+						"content": "gerado",
+						"polygon": [
+							536,
+							122,
+							568,
+							122,
+							568,
+							136,
+							536,
+							136
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 270,
+							"length": 6
+						}
+					},
+					{
+						"content": "na",
+						"polygon": [
+							571,
+							122,
+							584,
+							122,
+							584,
+							136,
+							571,
+							136
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 277,
+							"length": 2
+						}
+					},
+					{
+						"content": "hora",
+						"polygon": [
+							586,
+							122,
+							610,
+							122,
+							610,
+							136,
+							586,
+							136
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 280,
+							"length": 4
+						}
+					},
+					{
+						"content": "com",
+						"polygon": [
+							613,
+							122,
+							634,
+							122,
+							634,
+							136,
+							613,
+							136
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 285,
+							"length": 3
+						}
+					},
+					{
+						"content": "todas",
+						"polygon": [
+							637,
+							122,
+							664,
+							122,
+							664,
+							136,
+							637,
+							136
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 289,
+							"length": 5
+						}
+					},
+					{
+						"content": "as",
+						"polygon": [
+							667,
+							122,
+							680,
+							122,
+							680,
+							136,
+							667,
+							136
+						],
+						"confidence": 0.978,
+						"span": {
+							"offset": 295,
+							"length": 2
+						}
+					},
+					{
+						"content": "informações",
+						"polygon": [
+							38,
+							136,
+							100,
+							135,
+							100,
+							149,
+							38,
+							149
+						],
+						"confidence": 0.914,
+						"span": {
+							"offset": 298,
+							"length": 11
+						}
+					},
+					{
+						"content": "e",
+						"polygon": [
+							103,
+							135,
+							108,
+							135,
+							107,
+							149,
+							103,
+							149
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 310,
+							"length": 1
+						}
+					},
+					{
+						"content": "fotos",
+						"polygon": [
+							110,
+							135,
+							136,
+							135,
+							136,
+							149,
+							110,
+							149
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 312,
+							"length": 5
+						}
+					},
+					{
+						"content": "coletadas",
+						"polygon": [
+							139,
+							135,
+							186,
+							135,
+							186,
+							149,
+							139,
+							149
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 318,
+							"length": 9
+						}
+					},
+					{
+						"content": "com",
+						"polygon": [
+							189,
+							135,
+							210,
+							135,
+							210,
+							149,
+							188,
+							149
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 328,
+							"length": 3
+						}
+					},
+					{
+						"content": "o",
+						"polygon": [
+							213,
+							135,
+							218,
+							135,
+							217,
+							149,
+							212,
+							149
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 332,
+							"length": 1
+						}
+					},
+					{
+						"content": "logo",
+						"polygon": [
+							220,
+							135,
+							242,
+							135,
+							242,
+							149,
+							220,
+							149
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 334,
+							"length": 4
+						}
+					},
+					{
+						"content": "e",
+						"polygon": [
+							245,
+							135,
+							252,
+							135,
+							251,
+							149,
+							245,
+							149
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 339,
+							"length": 1
+						}
+					},
+					{
+						"content": "cores",
+						"polygon": [
+							255,
+							135,
+							282,
+							135,
+							281,
+							149,
+							254,
+							149
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 341,
+							"length": 5
+						}
+					},
+					{
+						"content": "da",
+						"polygon": [
+							285,
+							136,
+							297,
+							136,
+							296,
+							149,
+							284,
+							149
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 347,
+							"length": 2
+						}
+					},
+					{
+						"content": "sua",
+						"polygon": [
+							300,
+							136,
+							318,
+							136,
+							317,
+							149,
+							299,
+							149
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 350,
+							"length": 3
+						}
+					},
+					{
+						"content": "empresa.",
+						"polygon": [
+							321,
+							136,
+							369,
+							136,
+							369,
+							149,
+							320,
+							149
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 354,
+							"length": 8
+						}
+					},
+					{
+						"content": "coloque",
+						"polygon": [
+							63,
+							263,
+							99,
+							263,
+							99,
+							273,
+							63,
+							274
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 363,
+							"length": 7
+						}
+					},
+					{
+						"content": "aqui",
+						"polygon": [
+							102,
+							263,
+							121,
+							263,
+							120,
+							273,
+							102,
+							273
+						],
+						"confidence": 0.934,
+						"span": {
+							"offset": 371,
+							"length": 4
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							123,
+							263,
+							128,
+							263,
+							128,
+							273,
+							123,
+							273
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 376,
+							"length": 1
+						}
+					},
+					{
+						"content": "marca",
+						"polygon": [
+							131,
+							263,
+							160,
+							263,
+							159,
+							274,
+							131,
+							273
+						],
+						"confidence": 0.952,
+						"span": {
+							"offset": 378,
+							"length": 5
+						}
+					},
+					{
+						"content": "da",
+						"polygon": [
+							77,
+							274,
+							88,
+							274,
+							87,
+							284,
+							77,
+							284
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 384,
+							"length": 2
+						}
+					},
+					{
+						"content": "sua",
+						"polygon": [
+							91,
+							274,
+							106,
+							274,
+							106,
+							284,
+							90,
+							284
+						],
+						"confidence": 0.642,
+						"span": {
+							"offset": 387,
+							"length": 3
+						}
+					},
+					{
+						"content": "empresa",
+						"polygon": [
+							109,
+							275,
+							148,
+							275,
+							148,
+							285,
+							109,
+							284
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 391,
+							"length": 7
+						}
+					},
+					{
+						"content": "Checklist",
+						"polygon": [
+							244,
+							231,
+							343,
+							231,
+							343,
+							255,
+							244,
+							254
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 399,
+							"length": 9
+						}
+					},
+					{
+						"content": "Manutenção",
+						"polygon": [
+							351,
+							231,
+							478,
+							231,
+							477,
+							256,
+							350,
+							255
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 409,
+							"length": 10
+						}
+					},
+					{
+						"content": "Corretiva",
+						"polygon": [
+							312,
+							257,
+							411,
+							257,
+							411,
+							280,
+							311,
+							279
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 420,
+							"length": 9
+						}
+					},
+					{
+						"content": "coloque",
+						"polygon": [
+							563,
+							262,
+							599,
+							263,
+							598,
+							273,
+							563,
+							274
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 430,
+							"length": 7
+						}
+					},
+					{
+						"content": "aqui",
+						"polygon": [
+							602,
+							263,
+							621,
+							263,
+							620,
+							273,
+							601,
+							273
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 438,
+							"length": 4
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							623,
+							263,
+							628,
+							263,
+							628,
+							273,
+							622,
+							273
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 443,
+							"length": 1
+						}
+					},
+					{
+						"content": "marca",
+						"polygon": [
+							631,
+							263,
+							660,
+							263,
+							659,
+							273,
+							630,
+							273
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 445,
+							"length": 5
+						}
+					},
+					{
+						"content": "do",
+						"polygon": [
+							580,
+							274,
+							592,
+							274,
+							592,
+							284,
+							580,
+							284
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 451,
+							"length": 2
+						}
+					},
+					{
+						"content": "seu",
+						"polygon": [
+							595,
+							274,
+							611,
+							274,
+							611,
+							284,
+							595,
+							284
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 454,
+							"length": 3
+						}
+					},
+					{
+						"content": "cliente",
+						"polygon": [
+							613,
+							274,
+							643,
+							274,
+							642,
+							283,
+							613,
+							284
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 458,
+							"length": 7
+						}
+					},
+					{
+						"content": "Cliente",
+						"polygon": [
+							39,
+							335,
+							87,
+							336,
+							87,
+							349,
+							39,
+							349
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 466,
+							"length": 7
+						}
+					},
+					{
+						"content": "Nome",
+						"polygon": [
+							40,
+							364,
+							79,
+							364,
+							79,
+							378,
+							40,
+							377
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 474,
+							"length": 4
+						}
+					},
+					{
+						"content": "Atacado",
+						"polygon": [
+							40,
+							379,
+							89,
+							379,
+							89,
+							395,
+							41,
+							395
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 479,
+							"length": 7
+						}
+					},
+					{
+						"content": "Bom",
+						"polygon": [
+							93,
+							379,
+							120,
+							379,
+							120,
+							395,
+							93,
+							395
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 487,
+							"length": 3
+						}
+					},
+					{
+						"content": "Preço",
+						"polygon": [
+							125,
+							379,
+							161,
+							380,
+							161,
+							395,
+							125,
+							395
+						],
+						"confidence": 0.956,
+						"span": {
+							"offset": 491,
+							"length": 5
+						}
+					},
+					{
+						"content": "Endereço",
+						"polygon": [
+							366,
+							364,
+							431,
+							365,
+							431,
+							379,
+							366,
+							378
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 497,
+							"length": 8
+						}
+					},
+					{
+						"content": "Av.",
+						"polygon": [
+							367,
+							379,
+							386,
+							379,
+							386,
+							394,
+							367,
+							394
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 506,
+							"length": 3
+						}
+					},
+					{
+						"content": "Senador",
+						"polygon": [
+							390,
+							379,
+							441,
+							379,
+							441,
+							395,
+							390,
+							394
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 510,
+							"length": 7
+						}
+					},
+					{
+						"content": "Salgado",
+						"polygon": [
+							444,
+							379,
+							493,
+							378,
+							493,
+							395,
+							444,
+							395
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 518,
+							"length": 7
+						}
+					},
+					{
+						"content": "Filho,",
+						"polygon": [
+							497,
+							378,
+							526,
+							378,
+							526,
+							395,
+							497,
+							395
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 526,
+							"length": 6
+						}
+					},
+					{
+						"content": "1305,",
+						"polygon": [
+							530,
+							378,
+							563,
+							378,
+							563,
+							395,
+							530,
+							395
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 533,
+							"length": 5
+						}
+					},
+					{
+						"content": "Centro,",
+						"polygon": [
+							567,
+							378,
+							610,
+							378,
+							610,
+							395,
+							567,
+							395
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 539,
+							"length": 7
+						}
+					},
+					{
+						"content": "Curitiba",
+						"polygon": [
+							615,
+							378,
+							662,
+							378,
+							662,
+							394,
+							615,
+							395
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 547,
+							"length": 8
+						}
+					},
+					{
+						"content": "Telefone",
+						"polygon": [
+							41,
+							409,
+							96,
+							409,
+							96,
+							423,
+							40,
+							422
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 556,
+							"length": 8
+						}
+					},
+					{
+						"content": "(41)",
+						"polygon": [
+							41,
+							424,
+							64,
+							423,
+							64,
+							439,
+							41,
+							440
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 565,
+							"length": 4
+						}
+					},
+					{
+						"content": "9908-0808",
+						"polygon": [
+							68,
+							423,
+							134,
+							423,
+							134,
+							438,
+							68,
+							439
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 570,
+							"length": 9
+						}
+					},
+					{
+						"content": "CNPJ",
+						"polygon": [
+							367,
+							408,
+							405,
+							408,
+							405,
+							421,
+							367,
+							422
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 580,
+							"length": 4
+						}
+					},
+					{
+						"content": "15.238.396/0001-87",
+						"polygon": [
+							366,
+							423,
+							490,
+							424,
+							489,
+							438,
+							366,
+							438
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 585,
+							"length": 18
+						}
+					},
+					{
+						"content": "Equipamento",
+						"polygon": [
+							40,
+							452,
+							125,
+							453,
+							124,
+							468,
+							40,
+							470
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 604,
+							"length": 11
+						}
+					},
+					{
+						"content": "ou",
+						"polygon": [
+							128,
+							452,
+							145,
+							452,
+							145,
+							468,
+							128,
+							468
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 616,
+							"length": 2
+						}
+					},
+					{
+						"content": "Ativo",
+						"polygon": [
+							149,
+							452,
+							185,
+							452,
+							185,
+							469,
+							148,
+							468
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 619,
+							"length": 5
+						}
+					},
+					{
+						"content": "Nome",
+						"polygon": [
+							39,
+							482,
+							79,
+							482,
+							79,
+							496,
+							39,
+							496
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 625,
+							"length": 4
+						}
+					},
+					{
+						"content": "Atacado",
+						"polygon": [
+							39,
+							497,
+							90,
+							497,
+							89,
+							513,
+							39,
+							512
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 630,
+							"length": 7
+						}
+					},
+					{
+						"content": "bom",
+						"polygon": [
+							93,
+							497,
+							119,
+							498,
+							119,
+							513,
+							93,
+							513
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 638,
+							"length": 3
+						}
+					},
+					{
+						"content": "preço",
+						"polygon": [
+							123,
+							498,
+							159,
+							498,
+							159,
+							513,
+							123,
+							513
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 642,
+							"length": 5
+						}
+					},
+					{
+						"content": "Modelo",
+						"polygon": [
+							366,
+							482,
+							417,
+							482,
+							416,
+							496,
+							366,
+							496
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 648,
+							"length": 6
+						}
+					},
+					{
+						"content": "Split",
+						"polygon": [
+							367,
+							497,
+							396,
+							496,
+							397,
+							511,
+							367,
+							512
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 655,
+							"length": 5
+						}
+					},
+					{
+						"content": "Marca",
+						"polygon": [
+							40,
+							527,
+							80,
+							527,
+							80,
+							540,
+							40,
+							540
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 661,
+							"length": 5
+						}
+					},
+					{
+						"content": "Samsung",
+						"polygon": [
+							40,
+							541,
+							99,
+							543,
+							99,
+							557,
+							40,
+							556
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 667,
+							"length": 7
+						}
+					},
+					{
+						"content": "Local",
+						"polygon": [
+							366,
+							526,
+							403,
+							526,
+							403,
+							541,
+							366,
+							541
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 675,
+							"length": 5
+						}
+					},
+					{
+						"content": "de",
+						"polygon": [
+							407,
+							526,
+							422,
+							526,
+							422,
+							541,
+							407,
+							541
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 681,
+							"length": 2
+						}
+					},
+					{
+						"content": "instalação:",
+						"polygon": [
+							426,
+							526,
+							497,
+							527,
+							497,
+							541,
+							426,
+							541
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 684,
+							"length": 11
+						}
+					},
+					{
+						"content": "Fabricante:",
+						"polygon": [
+							40,
+							571,
+							114,
+							571,
+							114,
+							585,
+							40,
+							585
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 696,
+							"length": 11
+						}
+					},
+					{
+						"content": "Capacidade:",
+						"polygon": [
+							367,
+							571,
+							450,
+							571,
+							450,
+							587,
+							367,
+							587
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 708,
+							"length": 11
+						}
+					},
+					{
+						"content": "Sobre",
+						"polygon": [
+							39,
+							614,
+							79,
+							615,
+							78,
+							630,
+							39,
+							629
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 720,
+							"length": 5
+						}
+					},
+					{
+						"content": "o",
+						"polygon": [
+							82,
+							615,
+							91,
+							615,
+							90,
+							631,
+							82,
+							630
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 726,
+							"length": 1
+						}
+					},
+					{
+						"content": "serviço",
+						"polygon": [
+							94,
+							615,
+							143,
+							615,
+							142,
+							631,
+							94,
+							631
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 728,
+							"length": 7
+						}
+					},
+					{
+						"content": "Data",
+						"polygon": [
+							39,
+							643,
+							69,
+							644,
+							69,
+							660,
+							39,
+							660
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 736,
+							"length": 4
+						}
+					},
+					{
+						"content": "e",
+						"polygon": [
+							73,
+							644,
+							80,
+							644,
+							80,
+							659,
+							73,
+							660
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 741,
+							"length": 1
+						}
+					},
+					{
+						"content": "Hora",
+						"polygon": [
+							85,
+							644,
+							115,
+							644,
+							115,
+							659,
+							85,
+							659
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 743,
+							"length": 4
+						}
+					},
+					{
+						"content": "de",
+						"polygon": [
+							119,
+							644,
+							134,
+							644,
+							134,
+							660,
+							119,
+							659
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 748,
+							"length": 2
+						}
+					},
+					{
+						"content": "Chegada",
+						"polygon": [
+							138,
+							644,
+							197,
+							644,
+							197,
+							660,
+							138,
+							660
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 751,
+							"length": 7
+						}
+					},
+					{
+						"content": "Data",
+						"polygon": [
+							366,
+							644,
+							397,
+							644,
+							397,
+							659,
+							366,
+							658
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 759,
+							"length": 4
+						}
+					},
+					{
+						"content": "e",
+						"polygon": [
+							401,
+							644,
+							408,
+							644,
+							408,
+							659,
+							401,
+							659
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 764,
+							"length": 1
+						}
+					},
+					{
+						"content": "Hora",
+						"polygon": [
+							412,
+							644,
+							442,
+							644,
+							442,
+							659,
+							412,
+							659
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 766,
+							"length": 4
+						}
+					},
+					{
+						"content": "de",
+						"polygon": [
+							447,
+							644,
+							462,
+							644,
+							462,
+							659,
+							446,
+							659
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 771,
+							"length": 2
+						}
+					},
+					{
+						"content": "Saida",
+						"polygon": [
+							466,
+							643,
+							503,
+							643,
+							503,
+							659,
+							466,
+							659
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 774,
+							"length": 5
+						}
+					},
+					{
+						"content": "Responsável",
+						"polygon": [
+							39,
+							689,
+							126,
+							689,
+							126,
+							704,
+							39,
+							703
+						],
+						"confidence": 0.937,
+						"span": {
+							"offset": 780,
+							"length": 11
+						}
+					},
+					{
+						"content": "Diagnóstico",
+						"polygon": [
+							40,
+							733,
+							119,
+							733,
+							119,
+							750,
+							40,
+							750
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 792,
+							"length": 11
+						}
+					},
+					{
+						"content": "Solução",
+						"polygon": [
+							366,
+							734,
+							422,
+							734,
+							422,
+							748,
+							366,
+							748
+						],
+						"confidence": 0.912,
+						"span": {
+							"offset": 804,
+							"length": 7
+						}
+					},
+					{
+						"content": "Diagnóstico",
+						"polygon": [
+							41,
+							762,
+							111,
+							762,
+							111,
+							778,
+							41,
+							778
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 812,
+							"length": 11
+						}
+					},
+					{
+						"content": "atual",
+						"polygon": [
+							115,
+							762,
+							147,
+							761,
+							146,
+							778,
+							114,
+							778
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 824,
+							"length": 5
+						}
+					},
+					{
+						"content": "Solução",
+						"polygon": [
+							367,
+							762,
+							417,
+							762,
+							416,
+							778,
+							367,
+							778
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 830,
+							"length": 7
+						}
+					},
+					{
+						"content": "aplicada",
+						"polygon": [
+							420,
+							762,
+							472,
+							762,
+							472,
+							778,
+							420,
+							778
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 838,
+							"length": 8
+						}
+					},
+					{
+						"content": "·",
+						"polygon": [
+							64,
+							793,
+							70,
+							793,
+							70,
+							808,
+							63,
+							808
+						],
+						"confidence": 0.49,
+						"span": {
+							"offset": 847,
+							"length": 1
+						}
+					},
+					{
+						"content": "Problema",
+						"polygon": [
+							85,
+							793,
+							141,
+							793,
+							141,
+							808,
+							84,
+							808
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 849,
+							"length": 8
+						}
+					},
+					{
+						"content": "com",
+						"polygon": [
+							145,
+							793,
+							171,
+							793,
+							171,
+							808,
+							145,
+							808
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 858,
+							"length": 3
+						}
+					},
+					{
+						"content": "vazamento",
+						"polygon": [
+							174,
+							793,
+							240,
+							793,
+							239,
+							808,
+							174,
+							808
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 862,
+							"length": 9
+						}
+					},
+					{
+						"content": "no",
+						"polygon": [
+							243,
+							793,
+							258,
+							793,
+							258,
+							808,
+							243,
+							808
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 872,
+							"length": 2
+						}
+					},
+					{
+						"content": "fluido",
+						"polygon": [
+							262,
+							793,
+							296,
+							793,
+							296,
+							808,
+							261,
+							808
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 875,
+							"length": 6
+						}
+					},
+					{
+						"content": "·",
+						"polygon": [
+							390,
+							793,
+							398,
+							793,
+							398,
+							808,
+							390,
+							808
+						],
+						"confidence": 0.935,
+						"span": {
+							"offset": 882,
+							"length": 1
+						}
+					},
+					{
+						"content": "Limpeza",
+						"polygon": [
+							412,
+							793,
+							463,
+							793,
+							462,
+							808,
+							412,
+							808
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 884,
+							"length": 7
+						}
+					},
+					{
+						"content": "de",
+						"polygon": [
+							466,
+							793,
+							481,
+							793,
+							481,
+							808,
+							466,
+							808
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 892,
+							"length": 2
+						}
+					},
+					{
+						"content": "filtro",
+						"polygon": [
+							485,
+							793,
+							510,
+							793,
+							510,
+							808,
+							484,
+							808
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 895,
+							"length": 6
+						}
+					},
+					{
+						"content": "realizada;",
+						"polygon": [
+							515,
+							793,
+							573,
+							794,
+							573,
+							808,
+							514,
+							808
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 902,
+							"length": 10
+						}
+					},
+					{
+						"content": ".",
+						"polygon": [
+							62,
+							808,
+							77,
+							808,
+							77,
+							822,
+							62,
+							822
+						],
+						"confidence": 0.7,
+						"span": {
+							"offset": 913,
+							"length": 1
+						}
+					},
+					{
+						"content": "Filtro",
+						"polygon": [
+							82,
+							808,
+							114,
+							808,
+							114,
+							824,
+							82,
+							824
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 915,
+							"length": 6
+						}
+					},
+					{
+						"content": "sujo",
+						"polygon": [
+							118,
+							808,
+							144,
+							808,
+							144,
+							823,
+							118,
+							824
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 922,
+							"length": 4
+						}
+					},
+					{
+						"content": ".",
+						"polygon": [
+							64,
+							824,
+							77,
+							824,
+							77,
+							837,
+							63,
+							837
+						],
+						"confidence": 0.67,
+						"span": {
+							"offset": 927,
+							"length": 1
+						}
+					},
+					{
+						"content": "Necessário",
+						"polygon": [
+							82,
+							824,
+							151,
+							824,
+							151,
+							839,
+							82,
+							839
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 929,
+							"length": 10
+						}
+					},
+					{
+						"content": "ajuste",
+						"polygon": [
+							155,
+							824,
+							190,
+							824,
+							190,
+							840,
+							155,
+							839
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 940,
+							"length": 6
+						}
+					},
+					{
+						"content": "e",
+						"polygon": [
+							194,
+							824,
+							201,
+							824,
+							201,
+							840,
+							194,
+							840
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 947,
+							"length": 1
+						}
+					},
+					{
+						"content": "fixação",
+						"polygon": [
+							206,
+							824,
+							249,
+							824,
+							249,
+							840,
+							205,
+							840
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 949,
+							"length": 7
+						}
+					},
+					{
+						"content": "Peças",
+						"polygon": [
+							39,
+							853,
+							80,
+							853,
+							79,
+							868,
+							39,
+							868
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 957,
+							"length": 5
+						}
+					},
+					{
+						"content": "trocadas",
+						"polygon": [
+							83,
+							853,
+							141,
+							853,
+							140,
+							868,
+							82,
+							868
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 963,
+							"length": 8
+						}
+					},
+					{
+						"content": "Peças",
+						"polygon": [
+							40,
+							881,
+							78,
+							882,
+							78,
+							898,
+							39,
+							897
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 972,
+							"length": 5
+						}
+					},
+					{
+						"content": "trocadas",
+						"polygon": [
+							82,
+							882,
+							135,
+							881,
+							135,
+							898,
+							81,
+							898
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 978,
+							"length": 8
+						}
+					},
+					{
+						"content": "·",
+						"polygon": [
+							63,
+							915,
+							70,
+							914,
+							70,
+							927,
+							63,
+							928
+						],
+						"confidence": 0.655,
+						"span": {
+							"offset": 987,
+							"length": 1
+						}
+					},
+					{
+						"content": "Filtro",
+						"polygon": [
+							85,
+							914,
+							116,
+							913,
+							116,
+							926,
+							84,
+							927
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 989,
+							"length": 6
+						}
+					},
+					{
+						"content": ".",
+						"polygon": [
+							62,
+							928,
+							77,
+							928,
+							77,
+							941,
+							62,
+							941
+						],
+						"confidence": 0.648,
+						"span": {
+							"offset": 996,
+							"length": 1
+						}
+					},
+					{
+						"content": "Suporte",
+						"polygon": [
+							83,
+							928,
+							133,
+							928,
+							133,
+							943,
+							83,
+							943
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 998,
+							"length": 7
+						}
+					},
+					{
+						"content": ".",
+						"polygon": [
+							64,
+							944,
+							82,
+							944,
+							82,
+							957,
+							64,
+							957
+						],
+						"confidence": 0.654,
+						"span": {
+							"offset": 1006,
+							"length": 1
+						}
+					},
+					{
+						"content": "Mangueira",
+						"polygon": [
+							82,
+							944,
+							150,
+							944,
+							150,
+							959,
+							82,
+							959
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1008,
+							"length": 9
+						}
+					},
+					{
+						"content": "·",
+						"polygon": [
+							390,
+							809,
+							398,
+							809,
+							398,
+							823,
+							389,
+							823
+						],
+						"confidence": 0.806,
+						"span": {
+							"offset": 1018,
+							"length": 1
+						}
+					},
+					{
+						"content": "Moldura",
+						"polygon": [
+							412,
+							809,
+							460,
+							809,
+							460,
+							824,
+							412,
+							823
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1020,
+							"length": 7
+						}
+					},
+					{
+						"content": "ajustada",
+						"polygon": [
+							464,
+							809,
+							516,
+							809,
+							516,
+							823,
+							464,
+							824
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1028,
+							"length": 8
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "Dica: Revise as questões abaixo e, se necessario, adapte para a sua realidade de aplicação.",
+						"polygon": [
+							134,
+							33,
+							591,
+							33,
+							591,
+							48,
+							134,
+							48
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 91
+							}
+						]
+					},
+					{
+						"content": "Esse é um modelo criado pelo Produttivo, um sistema e aplicativo para serviços.",
+						"polygon": [
+							38,
+							96,
+							432,
+							96,
+							432,
+							111,
+							38,
+							111
+						],
+						"spans": [
+							{
+								"offset": 92,
+								"length": 79
+							}
+						]
+					},
+					{
+						"content": "Conheça mais sobre os modelos digitais de checklist aqui, Você preenche pelo aplicativo e o PDF é gerado na hora com todas as",
+						"polygon": [
+							39,
+							121,
+							679,
+							121,
+							679,
+							136,
+							39,
+							136
+						],
+						"spans": [
+							{
+								"offset": 172,
+								"length": 125
+							}
+						]
+					},
+					{
+						"content": "informações e fotos coletadas com o logo e cores da sua empresa.",
+						"polygon": [
+							37,
+							135,
+							368,
+							135,
+							368,
+							149,
+							37,
+							148
+						],
+						"spans": [
+							{
+								"offset": 298,
+								"length": 64
+							}
+						]
+					},
+					{
+						"content": "coloque aqui a marca",
+						"polygon": [
+							63,
+							262,
+							159,
+							262,
+							159,
+							273,
+							63,
+							273
+						],
+						"spans": [
+							{
+								"offset": 363,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "da sua empresa",
+						"polygon": [
+							77,
+							273,
+							147,
+							274,
+							147,
+							284,
+							77,
+							284
+						],
+						"spans": [
+							{
+								"offset": 384,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Checklist Manutenção",
+						"polygon": [
+							244,
+							230,
+							477,
+							230,
+							477,
+							255,
+							243,
+							254
+						],
+						"spans": [
+							{
+								"offset": 399,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "Corretiva",
+						"polygon": [
+							311,
+							256,
+							410,
+							256,
+							410,
+							279,
+							311,
+							278
+						],
+						"spans": [
+							{
+								"offset": 420,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "coloque aqui a marca",
+						"polygon": [
+							562,
+							262,
+							659,
+							262,
+							659,
+							273,
+							562,
+							273
+						],
+						"spans": [
+							{
+								"offset": 430,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "do seu cliente",
+						"polygon": [
+							580,
+							273,
+							642,
+							273,
+							642,
+							283,
+							580,
+							284
+						],
+						"spans": [
+							{
+								"offset": 451,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Cliente",
+						"polygon": [
+							39,
+							334,
+							86,
+							335,
+							86,
+							348,
+							38,
+							348
+						],
+						"spans": [
+							{
+								"offset": 466,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Nome",
+						"polygon": [
+							40,
+							364,
+							79,
+							364,
+							79,
+							378,
+							40,
+							377
+						],
+						"spans": [
+							{
+								"offset": 474,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Atacado Bom Preço",
+						"polygon": [
+							40,
+							379,
+							160,
+							379,
+							160,
+							394,
+							40,
+							394
+						],
+						"spans": [
+							{
+								"offset": 479,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "Endereço",
+						"polygon": [
+							366,
+							363,
+							430,
+							364,
+							429,
+							379,
+							366,
+							378
+						],
+						"spans": [
+							{
+								"offset": 497,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Av. Senador Salgado Filho, 1305, Centro, Curitiba",
+						"polygon": [
+							366,
+							378,
+							661,
+							377,
+							661,
+							394,
+							366,
+							395
+						],
+						"spans": [
+							{
+								"offset": 506,
+								"length": 49
+							}
+						]
+					},
+					{
+						"content": "Telefone",
+						"polygon": [
+							39,
+							408,
+							95,
+							408,
+							95,
+							422,
+							39,
+							422
+						],
+						"spans": [
+							{
+								"offset": 556,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "(41) 9908-0808",
+						"polygon": [
+							41,
+							423,
+							133,
+							423,
+							133,
+							438,
+							41,
+							439
+						],
+						"spans": [
+							{
+								"offset": 565,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "CNPJ",
+						"polygon": [
+							367,
+							408,
+							405,
+							408,
+							405,
+							421,
+							367,
+							422
+						],
+						"spans": [
+							{
+								"offset": 580,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "15.238.396/0001-87",
+						"polygon": [
+							366,
+							422,
+							489,
+							422,
+							489,
+							437,
+							366,
+							437
+						],
+						"spans": [
+							{
+								"offset": 585,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "Equipamento ou Ativo",
+						"polygon": [
+							40,
+							452,
+							184,
+							452,
+							184,
+							468,
+							40,
+							469
+						],
+						"spans": [
+							{
+								"offset": 604,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "Nome",
+						"polygon": [
+							39,
+							482,
+							79,
+							482,
+							78,
+							496,
+							39,
+							496
+						],
+						"spans": [
+							{
+								"offset": 625,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Atacado bom preço",
+						"polygon": [
+							39,
+							496,
+							158,
+							497,
+							158,
+							512,
+							39,
+							511
+						],
+						"spans": [
+							{
+								"offset": 630,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "Modelo",
+						"polygon": [
+							366,
+							481,
+							416,
+							481,
+							416,
+							496,
+							366,
+							495
+						],
+						"spans": [
+							{
+								"offset": 648,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Split",
+						"polygon": [
+							367,
+							497,
+							396,
+							496,
+							396,
+							511,
+							367,
+							512
+						],
+						"spans": [
+							{
+								"offset": 655,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "Marca",
+						"polygon": [
+							40,
+							526,
+							79,
+							527,
+							79,
+							540,
+							40,
+							539
+						],
+						"spans": [
+							{
+								"offset": 661,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "Samsung",
+						"polygon": [
+							40,
+							541,
+							99,
+							543,
+							98,
+							557,
+							40,
+							555
+						],
+						"spans": [
+							{
+								"offset": 667,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Local de instalação:",
+						"polygon": [
+							365,
+							525,
+							496,
+							526,
+							496,
+							541,
+							365,
+							541
+						],
+						"spans": [
+							{
+								"offset": 675,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "Fabricante:",
+						"polygon": [
+							40,
+							570,
+							113,
+							571,
+							113,
+							584,
+							40,
+							584
+						],
+						"spans": [
+							{
+								"offset": 696,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "Capacidade:",
+						"polygon": [
+							367,
+							570,
+							449,
+							570,
+							449,
+							586,
+							367,
+							586
+						],
+						"spans": [
+							{
+								"offset": 708,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "Sobre o serviço",
+						"polygon": [
+							39,
+							614,
+							142,
+							615,
+							142,
+							630,
+							39,
+							629
+						],
+						"spans": [
+							{
+								"offset": 720,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "Data e Hora de Chegada",
+						"polygon": [
+							39,
+							643,
+							196,
+							643,
+							196,
+							659,
+							39,
+							659
+						],
+						"spans": [
+							{
+								"offset": 736,
+								"length": 22
+							}
+						]
+					},
+					{
+						"content": "Data e Hora de Saida",
+						"polygon": [
+							366,
+							643,
+							502,
+							643,
+							502,
+							658,
+							366,
+							658
+						],
+						"spans": [
+							{
+								"offset": 759,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "Responsável",
+						"polygon": [
+							38,
+							688,
+							125,
+							688,
+							125,
+							704,
+							38,
+							703
+						],
+						"spans": [
+							{
+								"offset": 780,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "Diagnóstico",
+						"polygon": [
+							39,
+							733,
+							118,
+							733,
+							118,
+							749,
+							39,
+							749
+						],
+						"spans": [
+							{
+								"offset": 792,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "Solução",
+						"polygon": [
+							366,
+							733,
+							421,
+							733,
+							421,
+							747,
+							366,
+							748
+						],
+						"spans": [
+							{
+								"offset": 804,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Diagnóstico atual",
+						"polygon": [
+							40,
+							761,
+							146,
+							761,
+							146,
+							777,
+							40,
+							777
+						],
+						"spans": [
+							{
+								"offset": 812,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "Solução aplicada",
+						"polygon": [
+							367,
+							761,
+							471,
+							761,
+							471,
+							778,
+							367,
+							777
+						],
+						"spans": [
+							{
+								"offset": 830,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "· Problema com vazamento no fluido",
+						"polygon": [
+							62,
+							792,
+							295,
+							792,
+							295,
+							807,
+							62,
+							807
+						],
+						"spans": [
+							{
+								"offset": 847,
+								"length": 34
+							}
+						]
+					},
+					{
+						"content": "· Limpeza de filtro realizada;",
+						"polygon": [
+							390,
+							793,
+							572,
+							793,
+							572,
+							808,
+							390,
+							808
+						],
+						"spans": [
+							{
+								"offset": 882,
+								"length": 30
+							}
+						]
+					},
+					{
+						"content": ".",
+						"polygon": [
+							62,
+							808,
+							76,
+							808,
+							75,
+							822,
+							62,
+							822
+						],
+						"spans": [
+							{
+								"offset": 913,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "Filtro sujo",
+						"polygon": [
+							81,
+							808,
+							143,
+							808,
+							143,
+							823,
+							81,
+							823
+						],
+						"spans": [
+							{
+								"offset": 915,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": ".",
+						"polygon": [
+							61,
+							824,
+							77,
+							825,
+							77,
+							837,
+							61,
+							837
+						],
+						"spans": [
+							{
+								"offset": 927,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "Necessário ajuste e fixação",
+						"polygon": [
+							82,
+							823,
+							248,
+							823,
+							248,
+							839,
+							82,
+							839
+						],
+						"spans": [
+							{
+								"offset": 929,
+								"length": 27
+							}
+						]
+					},
+					{
+						"content": "Peças trocadas",
+						"polygon": [
+							38,
+							852,
+							140,
+							852,
+							140,
+							868,
+							38,
+							867
+						],
+						"spans": [
+							{
+								"offset": 957,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Peças trocadas",
+						"polygon": [
+							39,
+							881,
+							134,
+							881,
+							134,
+							897,
+							39,
+							897
+						],
+						"spans": [
+							{
+								"offset": 972,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "· Filtro",
+						"polygon": [
+							62,
+							914,
+							115,
+							912,
+							116,
+							926,
+							62,
+							928
+						],
+						"spans": [
+							{
+								"offset": 987,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": ".",
+						"polygon": [
+							62,
+							928,
+							76,
+							928,
+							76,
+							941,
+							62,
+							941
+						],
+						"spans": [
+							{
+								"offset": 996,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "Suporte",
+						"polygon": [
+							82,
+							927,
+							132,
+							927,
+							133,
+							942,
+							82,
+							942
+						],
+						"spans": [
+							{
+								"offset": 998,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": ".",
+						"polygon": [
+							62,
+							944,
+							81,
+							944,
+							81,
+							957,
+							61,
+							957
+						],
+						"spans": [
+							{
+								"offset": 1006,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "Mangueira",
+						"polygon": [
+							81,
+							943,
+							149,
+							944,
+							149,
+							959,
+							81,
+							958
+						],
+						"spans": [
+							{
+								"offset": 1008,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "· Moldura ajustada",
+						"polygon": [
+							389,
+							808,
+							515,
+							808,
+							515,
+							823,
+							389,
+							823
+						],
+						"spans": [
+							{
+								"offset": 1018,
+								"length": 18
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 1036
+					}
+				]
+			}
+		],
+		"paragraphs": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 91
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							134,
+							33,
+							591,
+							33,
+							591,
+							48,
+							134,
+							48
+						]
+					}
+				],
+				"content": "Dica: Revise as questões abaixo e, se necessario, adapte para a sua realidade de aplicação."
+			},
+			{
+				"spans": [
+					{
+						"offset": 92,
+						"length": 79
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							38,
+							96,
+							432,
+							96,
+							432,
+							111,
+							38,
+							111
+						]
+					}
+				],
+				"content": "Esse é um modelo criado pelo Produttivo, um sistema e aplicativo para serviços."
+			},
+			{
+				"spans": [
+					{
+						"offset": 172,
+						"length": 190
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							37,
+							121,
+							679,
+							121,
+							679,
+							149,
+							37,
+							149
+						]
+					}
+				],
+				"content": "Conheça mais sobre os modelos digitais de checklist aqui, Você preenche pelo aplicativo e o PDF é gerado na hora com todas as informações e fotos coletadas com o logo e cores da sua empresa."
+			},
+			{
+				"spans": [
+					{
+						"offset": 363,
+						"length": 35
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							63,
+							262,
+							159,
+							262,
+							159,
+							284,
+							63,
+							284
+						]
+					}
+				],
+				"content": "coloque aqui a marca da sua empresa"
+			},
+			{
+				"spans": [
+					{
+						"offset": 399,
+						"length": 30
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							243,
+							230,
+							477,
+							230,
+							477,
+							279,
+							243,
+							279
+						]
+					}
+				],
+				"content": "Checklist Manutenção Corretiva"
+			},
+			{
+				"spans": [
+					{
+						"offset": 430,
+						"length": 35
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							562,
+							262,
+							659,
+							262,
+							659,
+							284,
+							562,
+							284
+						]
+					}
+				],
+				"content": "coloque aqui a marca do seu cliente"
+			},
+			{
+				"spans": [
+					{
+						"offset": 466,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							38,
+							334,
+							86,
+							334,
+							86,
+							348,
+							38,
+							348
+						]
+					}
+				],
+				"content": "Cliente"
+			},
+			{
+				"spans": [
+					{
+						"offset": 474,
+						"length": 22
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							40,
+							364,
+							160,
+							364,
+							160,
+							394,
+							40,
+							394
+						]
+					}
+				],
+				"content": "Nome Atacado Bom Preço"
+			},
+			{
+				"spans": [
+					{
+						"offset": 497,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							366,
+							363,
+							430,
+							364,
+							429,
+							379,
+							366,
+							378
+						]
+					}
+				],
+				"content": "Endereço"
+			},
+			{
+				"spans": [
+					{
+						"offset": 506,
+						"length": 49
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							366,
+							378,
+							661,
+							377,
+							661,
+							394,
+							366,
+							395
+						]
+					}
+				],
+				"content": "Av. Senador Salgado Filho, 1305, Centro, Curitiba"
+			},
+			{
+				"spans": [
+					{
+						"offset": 556,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							39,
+							408,
+							95,
+							408,
+							95,
+							422,
+							39,
+							422
+						]
+					}
+				],
+				"content": "Telefone"
+			},
+			{
+				"spans": [
+					{
+						"offset": 565,
+						"length": 14
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							41,
+							423,
+							133,
+							423,
+							133,
+							438,
+							41,
+							439
+						]
+					}
+				],
+				"content": "(41) 9908-0808"
+			},
+			{
+				"spans": [
+					{
+						"offset": 580,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							367,
+							408,
+							405,
+							408,
+							405,
+							421,
+							367,
+							422
+						]
+					}
+				],
+				"content": "CNPJ"
+			},
+			{
+				"spans": [
+					{
+						"offset": 585,
+						"length": 18
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							366,
+							422,
+							489,
+							422,
+							489,
+							437,
+							366,
+							437
+						]
+					}
+				],
+				"content": "15.238.396/0001-87"
+			},
+			{
+				"spans": [
+					{
+						"offset": 604,
+						"length": 20
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							40,
+							452,
+							184,
+							452,
+							184,
+							469,
+							40,
+							469
+						]
+					}
+				],
+				"content": "Equipamento ou Ativo"
+			},
+			{
+				"spans": [
+					{
+						"offset": 625,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							39,
+							482,
+							79,
+							482,
+							78,
+							496,
+							39,
+							496
+						]
+					}
+				],
+				"content": "Nome"
+			},
+			{
+				"spans": [
+					{
+						"offset": 630,
+						"length": 17
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							39,
+							496,
+							158,
+							497,
+							158,
+							512,
+							39,
+							511
+						]
+					}
+				],
+				"content": "Atacado bom preço"
+			},
+			{
+				"spans": [
+					{
+						"offset": 648,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							366,
+							481,
+							416,
+							481,
+							416,
+							512,
+							366,
+							512
+						]
+					}
+				],
+				"content": "Modelo Split"
+			},
+			{
+				"spans": [
+					{
+						"offset": 661,
+						"length": 13
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							40,
+							526,
+							100,
+							528,
+							99,
+							557,
+							39,
+							555
+						]
+					}
+				],
+				"content": "Marca Samsung"
+			},
+			{
+				"spans": [
+					{
+						"offset": 675,
+						"length": 20
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							365,
+							525,
+							496,
+							525,
+							496,
+							541,
+							365,
+							541
+						]
+					}
+				],
+				"content": "Local de instalação:"
+			},
+			{
+				"spans": [
+					{
+						"offset": 696,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							40,
+							570,
+							113,
+							570,
+							113,
+							584,
+							40,
+							584
+						]
+					}
+				],
+				"content": "Fabricante:"
+			},
+			{
+				"spans": [
+					{
+						"offset": 708,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							367,
+							570,
+							449,
+							570,
+							449,
+							586,
+							367,
+							586
+						]
+					}
+				],
+				"content": "Capacidade:"
+			},
+			{
+				"spans": [
+					{
+						"offset": 720,
+						"length": 15
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							39,
+							614,
+							142,
+							615,
+							142,
+							630,
+							39,
+							629
+						]
+					}
+				],
+				"content": "Sobre o serviço"
+			},
+			{
+				"spans": [
+					{
+						"offset": 736,
+						"length": 22
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							39,
+							643,
+							196,
+							643,
+							196,
+							659,
+							39,
+							659
+						]
+					}
+				],
+				"content": "Data e Hora de Chegada"
+			},
+			{
+				"spans": [
+					{
+						"offset": 759,
+						"length": 20
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							366,
+							643,
+							502,
+							643,
+							502,
+							658,
+							366,
+							658
+						]
+					}
+				],
+				"content": "Data e Hora de Saida"
+			},
+			{
+				"spans": [
+					{
+						"offset": 780,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							38,
+							688,
+							125,
+							688,
+							125,
+							704,
+							38,
+							704
+						]
+					}
+				],
+				"content": "Responsável"
+			},
+			{
+				"spans": [
+					{
+						"offset": 792,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							39,
+							733,
+							118,
+							733,
+							118,
+							749,
+							39,
+							749
+						]
+					}
+				],
+				"content": "Diagnóstico"
+			},
+			{
+				"spans": [
+					{
+						"offset": 804,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							366,
+							733,
+							421,
+							733,
+							421,
+							748,
+							366,
+							748
+						]
+					}
+				],
+				"content": "Solução"
+			},
+			{
+				"spans": [
+					{
+						"offset": 812,
+						"length": 17
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							40,
+							761,
+							146,
+							761,
+							146,
+							777,
+							40,
+							777
+						]
+					}
+				],
+				"content": "Diagnóstico atual"
+			},
+			{
+				"spans": [
+					{
+						"offset": 830,
+						"length": 16
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							367,
+							761,
+							471,
+							761,
+							471,
+							778,
+							367,
+							778
+						]
+					}
+				],
+				"content": "Solução aplicada"
+			},
+			{
+				"spans": [
+					{
+						"offset": 847,
+						"length": 34
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							62,
+							792,
+							295,
+							792,
+							295,
+							807,
+							62,
+							807
+						]
+					}
+				],
+				"content": "· Problema com vazamento no fluido"
+			},
+			{
+				"spans": [
+					{
+						"offset": 882,
+						"length": 30
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							390,
+							793,
+							572,
+							793,
+							572,
+							808,
+							390,
+							808
+						]
+					}
+				],
+				"content": "· Limpeza de filtro realizada;"
+			},
+			{
+				"spans": [
+					{
+						"offset": 913,
+						"length": 13
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							62,
+							808,
+							143,
+							808,
+							143,
+							823,
+							62,
+							823
+						]
+					}
+				],
+				"content": ". Filtro sujo"
+			},
+			{
+				"spans": [
+					{
+						"offset": 927,
+						"length": 29
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							61,
+							823,
+							248,
+							823,
+							248,
+							839,
+							61,
+							839
+						]
+					}
+				],
+				"content": ". Necessário ajuste e fixação"
+			},
+			{
+				"spans": [
+					{
+						"offset": 957,
+						"length": 14
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							38,
+							852,
+							140,
+							852,
+							140,
+							868,
+							38,
+							868
+						]
+					}
+				],
+				"content": "Peças trocadas"
+			},
+			{
+				"spans": [
+					{
+						"offset": 972,
+						"length": 14
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							39,
+							881,
+							134,
+							881,
+							134,
+							897,
+							39,
+							897
+						]
+					}
+				],
+				"content": "Peças trocadas"
+			},
+			{
+				"spans": [
+					{
+						"offset": 987,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							61,
+							914,
+							115,
+							912,
+							116,
+							926,
+							62,
+							928
+						]
+					}
+				],
+				"content": "· Filtro"
+			},
+			{
+				"spans": [
+					{
+						"offset": 996,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							62,
+							927,
+							133,
+							927,
+							133,
+							942,
+							62,
+							942
+						]
+					}
+				],
+				"content": ". Suporte"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1006,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							61,
+							943,
+							149,
+							944,
+							149,
+							959,
+							61,
+							958
+						]
+					}
+				],
+				"content": ". Mangueira"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1018,
+						"length": 18
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							389,
+							808,
+							515,
+							808,
+							515,
+							823,
+							389,
+							823
+						]
+					}
+				],
+				"content": "· Moldura ajustada"
+			}
+		],
+		"styles": [],
+		"contentFormat": "text"
+	}
+}
